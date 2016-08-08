@@ -2,6 +2,8 @@ ore_mining = {
 
 click = async(function(player, npc)
 
+-- test comment for GITHUB
+
 	local dispoIncreasePersecond = (100 / 604800)
 
 	local currentbronsonTalkTime = os.time()
