@@ -3,6 +3,7 @@ ore_mining = {
 click = async(function(player, npc)
 
 -- test comment for GITHUB
+-- test change in NPC branch
 
 	local dispoIncreasePersecond = (100 / 604800)
 
